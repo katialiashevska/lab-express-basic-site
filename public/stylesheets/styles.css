@@ -1,0 +1,61 @@
+.index {
+    background-color: lightblue;
+}
+
+.index img {
+  height: 400px;
+  object-fit: cover;
+}
+
+.index .container {
+    padding: 50px;
+}
+.about {
+    padding-top: 50px;
+    background-color: pink;
+}
+
+.quote {
+    font-size: 50px;
+    text-align: center;
+}
+
+.about img {
+    height: 100px;
+    margin-bottom: 50px;
+}
+
+.works {
+    background-color: bisque;
+    padding-bottom: 50px;
+}
+
+.works h1 {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.col-md-3 {
+    margin-top: 50px;
+}
+
+.photogallery {
+    background-color: plum;
+}
+
+.photogallery img {
+  height: 300px;
+  object-fit: cover;
+  margin: 25px 0;
+}
+
+.photogallery h1 {
+    padding-top: 50px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.navbar-custom {
+    color: green;
+}
+
